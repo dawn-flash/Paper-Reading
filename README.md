@@ -3,7 +3,7 @@
 
 这个文档用于记录论文阅读情况，具体关于论文的讨论请看issue
 
-delay network tomograhy 张 易 薛
+|delay network tomograhy | 张 |易 |薛 |
 
 论文list：
 network tomograhy:
