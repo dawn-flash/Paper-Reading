@@ -25,9 +25,16 @@ network tomograhy:
 
 8：Netscope: Practical Network Loss Tomography
 
+（上面 Katerian Argyraki 和 Patric Thiran的有关于network tomography的论文)
+
 博弈论：
+
 1：A Survey on Blockchain: A Game Theoretical Perspective
 
 2：Dynamic Service Placement for Mobile Micro-Clouds with Predicted Future Costs 
 
 3：Caching incentive design in wireless D2D networks: A Stackelberg game approach 
+
+GAN:
+
+Federal Learning：
