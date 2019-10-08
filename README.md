@@ -19,9 +19,23 @@ network tomograhy:
 | Network loss inference with second order statistics of end-to-end flows |                     |          |
 | Active Measurement for Multiple Link Failures Diagnosis in IP Networks |                     |          |
 
-（上面是 Katerian Argyraki 和 Patric Thiran的有关于network tomography的论文)
+（上面 Katerian Argyraki 和 Patric Thiran的有关于network tomography的论文)
 
- 
+
+
+| 论文标题                                                     | 发表期刊/会议，时间                             | 完成情况 |
+| ------------------------------------------------------------ | ----------------------------------------------- | -------- |
+| Robust Loss Inference in the Presence of Noisy Measurements  | Proceedings - IEEE INFOCOM，2018                |          |
+| Inferring link loss using striped unicast probes             | Proceedings - IEEE INFOCOM，2001                |          |
+| Delay Network Tomography Using a Partially Observable Bivariate Markov Chain | IEEE/ACM Transactions on Networking，2017       |          |
+| Multicast inference of packet delay variance at interior network links | Proceedings - IEEE INFOCOM，2000                |          |
+| Network tomography based on additive metrics                 | IEEE Transactions on Information Theory，2011   |          |
+| Active learning of multiple source multiple destination topologies | IEEE Transactions on Signal Processing，2014    |          |
+| Robust multi-source network tomography using selective probes | Proceedings - IEEE INFOCOM，2012                |          |
+| End-to-end measurements for network tomography under multipath routing | IEEE Communications Letters，2014               |          |
+| A survey on selective routing topology inference through active probing | IEEE Communications Surveys and Tutorials，2012 |          |
+| Maximum likelihood network topology identification from edge-based unicast measurements | Performance Evaluation Review，2002             |          |
+|                                                              |                                                 |          |
 
 博弈论：
 
@@ -37,4 +51,17 @@ GAN:
 
  
 
+| 论文标题                                                     | 发表期刊/会议，时间                                     | 完成情况 |
+| ------------------------------------------------------------ | ------------------------------------------------------- | -------- |
+| InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets | Advances in Neural Information Processing Systems，2016 |          |
+|                                                              |                                                         |          |
+|                                                              |                                                         |          |
+
 Federal Learning：
+
+| 论文标题                                                     | 发表期刊/会议，时间 | 完成情况 |
+| ------------------------------------------------------------ | ------------------- | -------- |
+| Federated Learning: Strategies for Improving Communication Efficiency |                     |          |
+|                                                              |                     |          |
+|                                                              |                     |          |
+
