@@ -19,7 +19,7 @@ network tomograhy:
 | Network loss inference with second order statistics of end-to-end flows |                     |          |
 | Active Measurement for Multiple Link Failures Diagnosis in IP Networks |                     |          |
 
-（上面 Katerian Argyraki 和 Patric Thiran的有关于network tomography的论文)
+（上面是 Katerian Argyraki 和 Patric Thiran的有关于network tomography的论文)
 
  
 
