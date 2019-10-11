@@ -1,6 +1,6 @@
 # **阅读网络测量相关论文**
 
- 
+
 
 这个文档用于记录论文阅读情况，具体关于论文的讨论请看issue
 
@@ -23,19 +23,21 @@ network tomograhy:
 
 
 
-| 论文标题                                                     | 发表期刊/会议，时间                             | 完成情况 |
-| ------------------------------------------------------------ | ----------------------------------------------- | -------- |
-| Robust Loss Inference in the Presence of Noisy Measurements  | Proceedings - IEEE INFOCOM，2018                |          |
-| Inferring link loss using striped unicast probes             | Proceedings - IEEE INFOCOM，2001                |          |
-| Delay Network Tomography Using a Partially Observable Bivariate Markov Chain | IEEE/ACM Transactions on Networking，2017       |          |
-| Multicast inference of packet delay variance at interior network links | Proceedings - IEEE INFOCOM，2000                |          |
-| Network tomography based on additive metrics                 | IEEE Transactions on Information Theory，2011   |          |
-| Active learning of multiple source multiple destination topologies | IEEE Transactions on Signal Processing，2014    |          |
-| Robust multi-source network tomography using selective probes | Proceedings - IEEE INFOCOM，2012                |          |
-| End-to-end measurements for network tomography under multipath routing | IEEE Communications Letters，2014               |          |
-| A survey on selective routing topology inference through active probing | IEEE Communications Surveys and Tutorials，2012 |          |
-| Maximum likelihood network topology identification from edge-based unicast measurements | Performance Evaluation Review，2002             |          |
-|                                                              |                                                 |          |
+| 论文标题                                                     | 发表期刊/会议，时间                                          | 完成情况 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| Hierarchical inference of unicast network topologies based on end-to-end measurements | IEEE Transactions on Signal Processing，2007                 |          |
+| Network Radar: Tomography from Round Trip Time Measurements  | Proceedings of the 11th ACM SIGCOMM Conference on Internet Measurement (IMC 2004)，2004 |          |
+| Robust Loss Inference in the Presence of Noisy Measurements  | Proceedings - IEEE INFOCOM，2018                             |          |
+| Inferring link loss using striped unicast probes             | Proceedings - IEEE INFOCOM，2001                             |          |
+| Delay Network Tomography Using a Partially Observable Bivariate Markov Chain | IEEE/ACM Transactions on Networking，2017                    |          |
+| Multicast inference of packet delay variance at interior network links | Proceedings - IEEE INFOCOM，2000                             |          |
+| Network tomography based on additive metrics                 | IEEE Transactions on Information Theory，2011                |          |
+| Active learning of multiple source multiple destination topologies | IEEE Transactions on Signal Processing，2014                 |          |
+| Robust multi-source network tomography using selective probes | Proceedings - IEEE INFOCOM，2012                             |          |
+| End-to-end measurements for network tomography under multipath routing | IEEE Communications Letters，2014                            |          |
+| A survey on selective routing topology inference through active probing | IEEE Communications Surveys and Tutorials，2012              |          |
+| Maximum likelihood network topology identification from edge-based unicast measurements | Performance Evaluation Review，2002                          |          |
+|                                                              |                                                              |          |
 
 博弈论：
 
