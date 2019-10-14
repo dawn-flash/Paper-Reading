@@ -41,11 +41,11 @@ network tomograhy:
 
 博弈论：
 
-| 论文标题                                                     | 发表期刊/会议，时间 | 完成情况 |
-| ------------------------------------------------------------ | ------------------- | -------- |
-| A Survey on Blockchain: A Game Theoretical Perspective       |                     |          |
-| Dynamic Service Placement for Mobile Micro-Clouds with Predicted Future Costs |                     |          |
-| Caching incentive design in wireless D2D networks: A Stackelberg game approach |                     |          |
+| 论文标题                                                     | 发表期刊/会议，时间 | 完成情况   |
+| ------------------------------------------------------------ | ------------------- | ---------- |
+| A Survey on Blockchain: A Game Theoretical Perspective       |                     | 张，薛，易 |
+| Dynamic Service Placement for Mobile Micro-Clouds with Predicted Future Costs |                     |            |
+| Caching incentive design in wireless D2D networks: A Stackelberg game approach |                     |            |
 
 
 
