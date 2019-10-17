@@ -26,7 +26,7 @@ network tomograhy:
 | 论文标题                                                     | 发表期刊/会议，时间                                          | 完成情况 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | Hierarchical inference of unicast network topologies based on end-to-end measurements | IEEE Transactions on Signal Processing，2007                 |          |
-| Network Radar: Tomography from Round Trip Time Measurements  | Proceedings of the 11th ACM SIGCOMM Conference on Internet Measurement (IMC 2004)，2004 |          | 张
+| Network Radar: Tomography from Round Trip Time Measurements  | Proceedings of the 11th ACM SIGCOMM Conference on Internet Measurement (IMC 2004)，2004 |张          | 
 | Robust Loss Inference in the Presence of Noisy Measurements  | Proceedings - IEEE INFOCOM，2018                             |          |
 | Inferring link loss using striped unicast probes             | Proceedings - IEEE INFOCOM，2001                             |          |
 | Delay Network Tomography Using a Partially Observable Bivariate Markov Chain | IEEE/ACM Transactions on Networking，2017                    |          |
