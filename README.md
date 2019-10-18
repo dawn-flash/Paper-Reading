@@ -66,4 +66,10 @@ Federal Learning：
 | Federated Learning: Strategies for Improving Communication Efficiency |                     |          |
 |                                                              |                     |          |
 |                                                              |                     |          |
+Blockchain
 
+| 论文标题                                                     | 发表期刊/会议，时间 | 完成情况 |
+| ------------------------------------------------------------ | ------------------- | -------- |
+| Bitcoin Block Withholding Attack Analysis and Mitigation |                     |          |
+|                                                              |                     |          |
+|                                                              |                     |          |
